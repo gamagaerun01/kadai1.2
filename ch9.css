@@ -28,6 +28,10 @@ main {
     background-color: #eee;
 }
 
+.step-box:last-child {
+    margin-right: 0;
+}
+
 .step-img1 {
     background-image: url(img/flow01.png);
     height: 150px;
